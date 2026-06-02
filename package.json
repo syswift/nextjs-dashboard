@@ -34,11 +34,5 @@
     "globals": "^17.6.0",
     "typescript-eslint": "^8.59.2"
   },
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "bcrypt",
-      "sharp"
-    ]
-  },
-  "packageManager": "pnpm@11.0.9+sha256.4d84d7b0e31c9054f61658795698070007d03b7238481e2161a562557aa90834"
+  "packageManager": "pnpm@11.5.0"
 }
